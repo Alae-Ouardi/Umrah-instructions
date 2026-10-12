@@ -1,0 +1,8 @@
+@page { margin: 16mm; }
+body { background: #fff; color: #000; font-size: 13pt; }
+.topbar, .stepnav, .install-banner, .skip-link, .counter, .toggle-row, .hero__actions, .btn { display: none !important; }
+.main { max-width: none; padding: 0; }
+.card, .dua, .note, .step__figure { box-shadow: none; break-inside: avoid; border-color: #999; }
+.dua__ar { background: none; border: 1px solid #999; font-size: 20pt; }
+.step__figure svg { max-height: 70mm; }
+a { color: #000; text-decoration: none; }
